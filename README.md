@@ -1,2 +1,2 @@
 # Matrix-Determinant
-Calculation of matrix determinants by Gaussian elimination method:
+Calculation of matrix determinants by Gaussian elimination method
