@@ -57,5 +57,5 @@ int main(){
 
     printf("\nThe determinant is: %.2f\n", (float) determinant * signOfDeterminant);
 
-    return 10;
+    return 1;
 }
