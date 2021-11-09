@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Enter the size of the square matrix:\n");
+    printf("Enter the size of the square matrix: ");
 
     int size;
     scanf("%d", &size);
