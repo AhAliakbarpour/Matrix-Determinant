@@ -10,7 +10,7 @@ int main()
     double matrix[size][size], determinant = 1;
     int signOfDeterminant = 1;
 
-    printf("\nEnter the Matrix elements separate with space or enter:\n");
+    printf("\nEnter the Matrix elements:\n");
 
     for (int row = 0; row < size; row++)
         for (int column = 0; column < size; column++)
